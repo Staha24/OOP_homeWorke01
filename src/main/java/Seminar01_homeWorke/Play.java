@@ -21,6 +21,12 @@ public class Play {
             }
         };
         son.scanner();
-
+        Cats cat = new Cats();
+        cat.sleep();
+        cat.hant();
+        Dog ob = new Dog();
+        ob.bark();
+        ob.sleep();
     }
+
 }

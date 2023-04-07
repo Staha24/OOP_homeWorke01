@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d12fe8a2-abcb-4ac0-94a5-1310f71ecd6d" name="Changes" comment="HomeWorke01">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Seminar01/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Seminar01/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Seminar01/Cat2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Seminar01/CatPlay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Seminar01_homeWorke/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Seminar01_homeWorke/Animal_dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Seminar01_homeWorke/Cats.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Seminar02/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Seminar02/NumberTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Seminar02/NumberTest2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Seminar02/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Seminar02/task2/IConst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Seminar02/task2/IConstPlay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Seminar02/task3/A.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Seminar02/task3/B.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Seminar02/task3/Play.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Seminar02/task4/MyIf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Seminar02/task4/MyIfPlay.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Seminar02/task4/Play.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Seminar02/task5/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Seminar02/task5/Stat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Seminar02/task6/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Seminar02/task6/Cedan.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/Seminar02/task6/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/Seminar01_homeWorke/Play.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/Seminar01_homeWorke/Play.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2NxaDuQ8kQlTyCAKigECZC6w0jT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="Seminar01_homeWorke" />
+    </key>
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="Seminar01_homeWorke" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Play">
+    <configuration name="Play" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Seminar01_homeWorke.Play" />
+      <module name="OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Seminar01_homeWorke.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Seminar02.task3.Play" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Seminar02.task3.Play" />
+      <module name="OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Seminar02.task3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Seminar02.task4.Play" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Seminar02.task4.Play" />
+      <module name="OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Seminar02.task4.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Seminar02.task5.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Seminar02.task5.Main" />
+      <module name="OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Seminar02.task5.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Seminar02.task6.Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Seminar02.task6.Main" />
+      <module name="OOP" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Seminar02.task6.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Play" />
+        <item itemvalue="Application.Seminar02.task5.Main" />
+        <item itemvalue="Application.Seminar02.task4.Play" />
+        <item itemvalue="Application.Seminar02.task6.Main" />
+        <item itemvalue="Application.Seminar02.task3.Play" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d12fe8a2-abcb-4ac0-94a5-1310f71ecd6d" name="Changes" comment="" />
+      <created>1680608071727</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1680608071727</updated>
+    </task>
+    <task id="LOCAL-00001" summary="HomeWorke01">
+      <created>1680702004571</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1680702004571</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="HomeWorke01" />
+    <option name="LAST_COMMIT_MESSAGE" value="HomeWorke01" />
+  </component>
+</project>
