@@ -1,9 +1,9 @@
 package Seminar01_homeWorke;
-
+//Наследованный интерфейс дя собак от интерыейса животное
 public interface Animal_dog extends Animal{
-    void bark();
+    void bark(); //добавлен метод лаять
 }
-class Dog implements Animal_dog{
+class Dog implements Animal_dog{ //создан наследованный класс собак
 
     @Override
     public void eat() {

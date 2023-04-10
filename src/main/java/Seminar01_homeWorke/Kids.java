@@ -1,6 +1,7 @@
 package Seminar01_homeWorke;
-
+//класс родителей, наследованный от класса человек
 public abstract class Kids extends Human{
+    //абстрактный класс ребенок, наследованный от класс человек
 
     public Kids(String gender, Integer age, String name, String surname, String connection) {
         super(gender, age, name, surname, connection);

@@ -1,16 +1,16 @@
 package Seminar01_homeWorke;
-
+//класс человек
 public abstract class Human {
-    public String gender;
-    public Integer age;
-    public String name;
-    public String surname;
-    public String connection;
+    public String gender;//поле пол
+    public Integer age;//поле возраст
+    public String name;//поле имя
+    public String surname;//поле фамилия
+    public String connection;//поле связь
 
 
 
 
-    public String Human() {
+    public String Human() { //конструктор заполнения полей
         return "Human{" +
                 "gender='" + gender + '\'' +
                 ", age=" + age +
@@ -28,5 +28,5 @@ public abstract class Human {
         this.connection = connection;
     }
 
-    public abstract void say();
+    public abstract void say(); //абстрактный метод говорить
 }

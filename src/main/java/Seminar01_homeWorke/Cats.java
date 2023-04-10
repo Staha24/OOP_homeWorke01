@@ -1,8 +1,8 @@
 package Seminar01_homeWorke;
 
 public class Cats implements Animal{
-
-    void hant(){
+//наследованный класс кошек от животных
+    void hant(){ //добавлен метод охоты
         System.out.println("Шипит");
     }
 
