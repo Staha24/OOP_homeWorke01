@@ -67,7 +67,7 @@ public class Shop implements SellTelephone {
         System.out.println("Введите стоимость телефона: ");
         String price = sc.next();
 
-        listTelephone.add(sc);
+        //listTelephone.add(sc);
         sc.close();
 
         return listTelephone;

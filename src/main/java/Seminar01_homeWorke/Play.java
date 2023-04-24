@@ -1,5 +1,12 @@
 package Seminar01_homeWorke;
 
+import Seminar04.Task01.Gen;
+import Seminar04.Task02.Numerec;
+import Seminar04.Task05.Sum;
+import Seminar05.Shop;
+import Seminar05.Telephone;
+
+import java.util.ArrayList;
 import java.util.Scanner;
 
 public class Play {
@@ -27,6 +34,21 @@ public class Play {
         Dog ob = new Dog();
         ob.bark();
         ob.sleep();
+
+        Shop_fish shop = new Shop_fish();
+        ArrayList<Fish> listFish = new ArrayList<>();
+        shop.create_fish(listFish);
+
+        for (Fish temp:listFish) {
+            System.out.println(temp.toString());
+        }
+
+        shop.sell_fish(listFish);
+        for (Fish temp:listFish) {
+            System.out.println(temp.toString());
+        }
+
+
     }
 
 }

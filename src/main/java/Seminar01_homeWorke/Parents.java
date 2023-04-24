@@ -22,4 +22,5 @@ public class Parents extends Human{
 
     }
 
+
 }
